@@ -5,7 +5,7 @@ I'm a software developer with an experience in working on several projecets.<br 
 In each project I was a part of a team consisting of about 10 people.<br />
 I code in Java and Typescript, especially with the MERN stack.<br />
 <br />
-In my free time I love to read books about psychology.< br/>
+In my free time I love to read books about psychology.<br />
 I also like swimming and playing football with my friends. I'm a goalkeeper.
 
 <!--
