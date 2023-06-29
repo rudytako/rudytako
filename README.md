@@ -1,4 +1,9 @@
-### Hi there 👋
+Hi there 👋
+
+My name is Maciej and I come from Poland. i've been coding for five years and currently I'am an IT student.
+I'm a software developer with an experience on working on some projecets.
+In each project I was a part of a team consisting of about 10 people.
+I code in Java and Typescript, especially with the MERN stack.
 
 <!--
 **rudytako/rudytako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
