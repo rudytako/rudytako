@@ -12,14 +12,6 @@ Now I am developing my devOps skills.<br />
 In my free time I love to read books about psychology.<br />
 I am also interested in law and politics.</br></br>
 
-<div align="center"></br>
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maciej-adamczuk-a165042a5/)</br></br>
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rudyta_ko/)</br>
-
-</div>
-
-
 <!--
 **rudytako/rudytako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
